@@ -1,6 +1,8 @@
 # Program 10
 
 
+# 10. Write an R Program to Combine Two Data frame into One
+
 df1 <- data.frame(
 ID = c(1, 2, 3),
 Name = c("John", "Alice", "Bob"),

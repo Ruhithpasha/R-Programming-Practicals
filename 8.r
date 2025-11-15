@@ -1,6 +1,8 @@
 # Program 8
 
 
+# 8. Write an R Program to check if Characters are Present in a String
+
 main_string <- "R programming language"
 search_char <- "g"
 is_present <- grepl(search_char, main_string)

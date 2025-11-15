@@ -1,6 +1,8 @@
 # Program 6
 
 
+# 6. Write an R Program to Check Prime Number
+
 num <- as.integer(readline(prompt = "Enter a number: "))
 is_prime <- TRUE
 if (num <= 1) {

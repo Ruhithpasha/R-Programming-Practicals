@@ -1,5 +1,6 @@
 # Program 5
 
+# 5. Write an R Multiplication Table
 
 num <- 5
 for(i in 1:10)
